@@ -28,6 +28,8 @@ public class Player : MonoBehaviour
         //ReadData();
         //ReadListData();
         ReadFromDB();
+
+        //a little test
     }
 
     // Update is called once per frame
